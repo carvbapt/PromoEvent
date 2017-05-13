@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PromoEvent</string>
+    <string name="app_opcao1">Promotor</string>
+    <string name="app_opcao2">Eventos</string>
+    <string name="app_opcao3">Historico</string>
+    <string name="app_opcao4">Sair</string>
+</resources>
